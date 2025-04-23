@@ -1,3 +1,13 @@
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+
+⭐️ Parabéns, gabrielaraujr! ⭐️
+
+Você concluiu este exercício! Ótimo trabalho! 🥳
+
+Se quiser praticar novamente, você pode repetir os passos abaixo. Basta clicar novamente no botão **Iniciar Exercício**.
+
+> Dessa vez, a Mona não vai avaliar você! 😉
+
 # API de Atividades da Escola Secundária Mergington
 
 Uma aplicação extremamente simples usando FastAPI que permite aos estudantes visualizar e se inscrever em atividades extracurriculares.
