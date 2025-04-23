@@ -142,3 +142,30 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.participants-list li {
+  display: flex;
+  align-items: center;
+  padding: 8px 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  background-color: #f9f9f9;
+  transition: background-color 0.2s;
+}
+
+.participants-list li:hover {
+  background-color: #f1f1f1;
+}
+
+.participants-list li::before {
+  content: "👤";
+  margin-right: 10px;
+  color: #1a237e;
+}
